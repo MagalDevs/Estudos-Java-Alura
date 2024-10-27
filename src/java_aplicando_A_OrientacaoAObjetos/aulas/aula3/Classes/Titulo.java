@@ -1,6 +1,6 @@
-package java_aplicando_A_OrientacaoAObjetos.aulas.Aula2.classes;
+package java_aplicando_A_OrientacaoAObjetos.aulas.aula3.Classes;
 
-public class Filme {
+public class Titulo {
     private String nome;
     private int anoDeLancamento;
     private boolean incluidoNoPlano;
