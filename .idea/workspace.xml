@@ -4,11 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c44819f-eaaf-4c3f-a86f-609886e7b668" name="Changes" comment="Estudos dia 09-09-2024">
-      <change afterPath="$PROJECT_DIR$/src/Atividades_Práticas/DesafioAula3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividades_Práticas/JogoAdivinhacao.java" afterDir="false" />
+    <list default="true" id="9c44819f-eaaf-4c3f-a86f-609886e7b668" name="Changes" comment="Estudos 27-10-2024">
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/aulas/Classes/Episodio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/aulas/Classes/Filme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/aulas/Classes/Serie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/aulas/Classes/Titulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/aulas/Principal/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/aulas/Principal/PrincipalComListas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/aulas/calculadora/CalculadoraDeTempo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/aulas/calculadora/Classificavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/aulas/calculadora/FiltroRecomendacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/desafio01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/desafio01/Pessoa/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/desafio02/Classes/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/desafio02/Classes/ProdutoPerecivel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/desafio02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aulas/ControlandoFluxoDaAplicacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/ControlandoFluxoDaAplicacao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,16 +63,44 @@
     "Application.ControlandoFluxoDaAplicacao.executor": "Run",
     "Application.ConversaoDeTemperaturas.executor": "Run",
     "Application.DesafioAula2.executor": "Run",
+    "Application.DesafioAula3.executor": "Run",
     "Application.JogoAdivinhacao.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.PrincipalComListas.executor": "Run",
+    "Application.java_Trabalhando_Com_Listas_e_Colecoes_de_Dados.aulas.aula1.principal.Main.executor": "Run",
+    "Application.java_Trabalhando_Com_Listas_e_Colecoes_de_Dados.praticas.aulas.Main.executor": "Run",
+    "Application.java_Trabalhando_Com_Listas_e_Colecoes_de_Dados.praticas.desafio01.Main.executor": "Run",
+    "Application.java_Trabalhando_Com_Listas_e_Colecoes_de_Dados.praticas.desafio02.Main.executor": "Run",
+    "Application.java_aplicando_A_OrientacaoAObjetos.Atividades_praticas.aula2.Main.executor": "Run",
+    "Application.java_aplicando_A_OrientacaoAObjetos.aulas.aula3.Main.executor": "Run",
+    "Application.java_aplicando_A_OrientacaoAObjetos.aulas.aula4.Main.executor": "Run",
+    "Application.java_aplicando_A_OrientacaoAObjetos.aulas.aula5.principal.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Daniel/IdeaProjects/Estudos-Java-Alura",
+    "last_opened_file_path": "C:/Users/Daniel/IdeaProjects/Estudos-Java-Alura/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/aulas",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Daniel\IdeaProjects\Estudos-Java-Alura\src\java_Trabalhando_Com_Listas_e_Colecoes_de_Dados\praticas\aulas" />
+      <recent name="C:\Users\Daniel\IdeaProjects\Estudos-Java-Alura\src\java_Trabalhando_Com_Listas_e_Colecoes_de_Dados\aulas\aula3" />
+      <recent name="C:\Users\Daniel\IdeaProjects\Estudos-Java-Alura\src\java_Trabalhando_Com_Listas_e_Colecoes_de_Dados\aulas\aula2\calculadora" />
+      <recent name="C:\Users\Daniel\IdeaProjects\Estudos-Java-Alura\src\java_Trabalhando_Com_Listas_e_Colecoes_de_Dados\aulas\aula2" />
+      <recent name="C:\Users\Daniel\IdeaProjects\Estudos-Java-Alura\src\java_Trabalhando_Com_Listas_e_Colecoes_de_Dados\aulas\aula1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java_aplicando_A_OrientacaoAObjetos.aulas.aula4" />
+      <recent name="java_aplicando_A_OrientacaoAObjetos.aulas.aula3.Classes" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="ControlandoFluxoDaAplicacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aulas.ControlandoFluxoDaAplicacao" />
@@ -99,10 +141,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_aplicando_A_OrientacaoAObjetos.desafios.desafio01.Main" />
+      <module name="Estudos java-Alura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_aplicando_A_OrientacaoAObjetos.desafios.desafio01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JogoAdivinhacao" />
         <item itemvalue="Application.ControlandoFluxoDaAplicacao" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.JogoAdivinhacao" />
         <item itemvalue="Application.ConversaoDeTemperaturas" />
       </list>
     </recent_temporary>
@@ -148,13 +204,49 @@
       <option name="project" value="LOCAL" />
       <updated>1725977955218</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Estudos 11-09-2024">
+      <option name="closed" value="true" />
+      <created>1726024943472</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726024943472</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Estudos 09-10-2024">
+      <option name="closed" value="true" />
+      <created>1728510130967</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728510130967</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Estudos 11-10-2024">
+      <option name="closed" value="true" />
+      <created>1728682496510</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728682496510</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Estudos 27-10-2024">
+      <option name="closed" value="true" />
+      <created>1730050293206</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730050293206</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First-commit" />
     <MESSAGE value="primeiras atividades" />
     <MESSAGE value="Estudos dia 09-09-2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Estudos dia 09-09-2024" />
+    <MESSAGE value="Estudos 11-09-2024" />
+    <MESSAGE value="Estudos 09-10-2024" />
+    <MESSAGE value="Estudos 11-10-2024" />
+    <MESSAGE value="Estudos 27-10-2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estudos 27-10-2024" />
   </component>
 </project>
