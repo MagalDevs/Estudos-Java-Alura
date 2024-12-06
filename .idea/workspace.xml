@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c44819f-eaaf-4c3f-a86f-609886e7b668" name="Changes" comment="Estudos 27-10-2024">
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/desafioFinal/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/desafioFinal/classes/Produtos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/aulas/Classes/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/aulas/Classes/Serie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/aulas/Principal/PrincipalComListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/aulas/Principal/PrincipalComListas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,37 +42,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ConstruindoCatalogoDeFilmes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ControlandoFluxoDaAplicacao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConversaoDeTemperaturas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DesafioAula2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DesafioAula3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JogoAdivinhacao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrincipalComListas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.java_Trabalhando_Com_Listas_e_Colecoes_de_Dados.aulas.aula1.principal.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.java_Trabalhando_Com_Listas_e_Colecoes_de_Dados.praticas.aulas.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.java_Trabalhando_Com_Listas_e_Colecoes_de_Dados.praticas.desafio01.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.java_Trabalhando_Com_Listas_e_Colecoes_de_Dados.praticas.desafio02.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.java_aplicando_A_OrientacaoAObjetos.Atividades_praticas.aula2.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.java_aplicando_A_OrientacaoAObjetos.aulas.aula3.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.java_aplicando_A_OrientacaoAObjetos.aulas.aula4.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.java_aplicando_A_OrientacaoAObjetos.aulas.aula5.principal.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Daniel/IdeaProjects/Estudos-Java-Alura/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/aulas&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ConstruindoCatalogoDeFilmes.executor": "Run",
+    "Application.ControlandoFluxoDaAplicacao.executor": "Debug",
+    "Application.ConversaoDeTemperaturas.executor": "Run",
+    "Application.DesafioAula2.executor": "Run",
+    "Application.DesafioAula3.executor": "Run",
+    "Application.JogoAdivinhacao.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.PrincipalComListas.executor": "Run",
+    "Application.java_Trabalhando_Com_Listas_e_Colecoes_de_Dados.aulas.aula1.principal.Main.executor": "Run",
+    "Application.java_Trabalhando_Com_Listas_e_Colecoes_de_Dados.praticas.aulas.Main.executor": "Run",
+    "Application.java_Trabalhando_Com_Listas_e_Colecoes_de_Dados.praticas.desafio01.Main.executor": "Run",
+    "Application.java_Trabalhando_Com_Listas_e_Colecoes_de_Dados.praticas.desafio02.Main.executor": "Run",
+    "Application.java_Trabalhando_Com_Listas_e_Colecoes_de_Dados.praticas.desafioFinal.Main.executor": "Run",
+    "Application.java_aplicando_A_OrientacaoAObjetos.Atividades_praticas.aula2.Main.executor": "Run",
+    "Application.java_aplicando_A_OrientacaoAObjetos.aulas.aula3.Main.executor": "Run",
+    "Application.java_aplicando_A_OrientacaoAObjetos.aulas.aula4.Main.executor": "Run",
+    "Application.java_aplicando_A_OrientacaoAObjetos.aulas.aula5.principal.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Daniel/IdeaProjects/Estudos-Java-Alura/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/aulas",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Daniel\IdeaProjects\Estudos-Java-Alura\src\java_Trabalhando_Com_Listas_e_Colecoes_de_Dados\praticas\aulas" />
