@@ -6,6 +6,8 @@ import java_Trabalhando_Com_Listas_e_Colecoes_de_Dados.praticas.aulas.Classes.Ti
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Comparator;
+import java.util.List;
 
 public class PrincipalComListas {
     public static void main(String[] args) {
@@ -17,7 +19,7 @@ public class PrincipalComListas {
         var filmeDoPaulo = new Filme("Dogville", 2003);
         filmeDoPaulo.avalia(10);
 
-        ArrayList<Titulo> lista = new ArrayList<>();
+        List<Titulo> lista = new ArrayList<>();
         lista.add(filmeDoPaulo);
         lista.add(meuFilme);
         lista.add(outroFilme);
@@ -42,6 +44,10 @@ public class PrincipalComListas {
         System.out.println(buscaPorArtista);
 
         Collections.sort(lista);
+        System.out.println(lista);
+
+        lista.sort(Comparator.comparing(Titulo::getAnoDeLancamento));
+        System.out.println("Ordenando por ano:");
         System.out.println(lista);
     }
 }
