@@ -1,4 +1,4 @@
-package Aprenda_a_programar_em_Java_com_Orientação_a_Objetos.Java_consumindo_API_gravando_arquivos_e_lidando_com_erros.aula.Principal;
+package Aprenda_a_programar_em_Java_com_Orientação_a_Objetos.Java_consumindo_API_gravando_arquivos_e_lidando_com_erros.desafios.desafio01;
 
 import java.io.IOException;
 import java.net.URI;
@@ -7,17 +7,18 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 import java.util.Scanner;
 
-public class PrincipalComBusca {
+public class Books {
     public static void main(String[] args) throws IOException, InterruptedException {
-        Scanner leitura = new Scanner(System.in);
-        System.out.println("Digite um filme para busca");
-        var busca = leitura.nextLine();
+        //AIzaSyAm6uIoVcPMoZR5Su-EfFP-ABekFNrOKdE
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Busque o livro pelo nome:");
+        String nomeLivro = scanner.nextLine();
 
-        String endereco = "http://www.omdbapi.com/?t=" + busca + "&apikey=fc73cd7d";
+        String path ="https://www.googleapis.com/books/v1/volumes?q=" + nomeLivro + "&key=AIzaSyAm6uIoVcPMoZR5Su-EfFP-ABekFNrOKdE";
 
         HttpClient client = HttpClient.newHttpClient();
         HttpRequest request = HttpRequest.newBuilder()
-                .uri(URI.create(endereco))
+                .uri(URI.create(path))
                 .build();
         HttpResponse<String> response = client
                 .send(request, HttpResponse.BodyHandlers.ofString());

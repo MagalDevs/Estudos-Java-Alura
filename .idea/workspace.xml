@@ -5,79 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c44819f-eaaf-4c3f-a86f-609886e7b668" name="Changes" comment="Estudos 27-10-2024">
-      <change afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/aula/Classes/Episodio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/aula/Classes/Filme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/aula/Classes/Serie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/aula/Classes/Titulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/aula/Principal/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/aula/Principal/PrincipalComBusca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/aula/Principal/PrincipalComListas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/aula/calculadora/CalculadoraDeTempo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/aula/calculadora/Classificavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/aula/calculadora/FiltroRecomendacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/aulas/calculadora/Classificavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/desafios/desafio01/Books.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/desafios/desafio01/Crypto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/desafios/desafio01/Meals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/aulas/Classes/Episodio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/aulas/Classes/Episodio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/aulas/Classes/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/aulas/Classes/Filme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/aulas/Classes/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/aulas/Classes/Serie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/aulas/Classes/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/aulas/Classes/Titulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/aulas/Principal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/aulas/Principal/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/aulas/Principal/PrincipalComListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/aulas/Principal/PrincipalComListas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/aulas/calculadora/CalculadoraDeTempo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/aulas/calculadora/CalculadoraDeTempo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/aulas/calculadora/Classificavel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/aulas/calculadora/FiltroRecomendacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/aulas/calculadora/FiltroRecomendacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/desafio01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/desafio01/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/desafio01/Pessoa/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/desafio01/Pessoa/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/desafio02/Classes/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/desafio02/Classes/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/desafio02/Classes/ProdutoPerecivel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/desafio02/Classes/ProdutoPerecivel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/desafio02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/desafio02/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/desafioFinal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/desafioFinal/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/praticas/desafioFinal/classes/Produtos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_Trabalhando_Com_Listas_e_Colecoes_de_Dados/desafioFinal/classes/Produtos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/Atividades_praticas/aula2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/Atividades_praticas/aula2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/Atividades_praticas/aula2/classes/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/Atividades_praticas/aula2/classes/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/Atividades_praticas/aula2/classes/ContaBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/Atividades_praticas/aula2/classes/ContaBancaria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/Atividades_praticas/aula2/classes/IdadePessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/Atividades_praticas/aula2/classes/IdadePessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/Atividades_praticas/aula2/classes/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/Atividades_praticas/aula2/classes/Livro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/Atividades_praticas/aula2/classes/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/Atividades_praticas/aula2/classes/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/aulas/Aula1/classes/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/aulas/Aula1/classes/Filme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/aulas/Aula1/classes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/aulas/Aula1/classes/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/aulas/Aula2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/aulas/Aula2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/aulas/Aula2/classes/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/aulas/Aula2/classes/Filme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/aulas/aula3/Classes/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/aulas/aula3/Classes/Filme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/aulas/aula3/Classes/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/aulas/aula3/Classes/Serie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/aulas/aula3/Classes/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/aulas/aula3/Classes/Titulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/aulas/aula3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/aulas/aula3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/aulas/aula3/calculadora/CalculadoraDeTempo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/aulas/aula3/calculadora/CalculadoraDeTempo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/aulas/aula4/Classes/Episodio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/aulas/aula4/Classes/Episodio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/aulas/aula4/Classes/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/aulas/aula4/Classes/Filme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/aulas/aula4/Classes/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/aulas/aula4/Classes/Serie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/aulas/aula4/Classes/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/aulas/aula4/Classes/Titulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/aulas/aula4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/aulas/aula4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/aulas/aula4/calculadora/CalculadoraDeTempo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/aulas/aula4/calculadora/CalculadoraDeTempo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/aulas/aula4/calculadora/Classificavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/aulas/aula4/calculadora/Classificavel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/aulas/aula4/calculadora/FiltroRecomendacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/aulas/aula4/calculadora/FiltroRecomendacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/aulas/aula5/modelos/Audio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/aulas/aula5/modelos/Audio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/aulas/aula5/modelos/MinhasPreferidas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/aulas/aula5/modelos/MinhasPreferidas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/aulas/aula5/modelos/Musica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/aulas/aula5/modelos/Musica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/aulas/aula5/modelos/Podcast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/aulas/aula5/modelos/Podcast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/aulas/aula5/principal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/aulas/aula5/principal/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/desafios/desafio01/Classes/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/desafios/desafio01/Classes/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/desafios/desafio01/Classes/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/desafios/desafio01/Classes/Calculadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/desafios/desafio01/Classes/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/desafios/desafio01/Classes/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/desafios/desafio01/Classes/Musica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/desafios/desafio01/Classes/Musica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/desafios/desafio01/Classes/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/desafios/desafio01/Classes/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_aplicando_A_OrientacaoAObjetos/desafios/desafio01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_aplicando_A_OrientacaoAObjetos/desafios/desafio01/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_criando_a_sua_primeira_aplicacao/Atividades_Práticas/ConversaoDeTemperaturas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_criando_a_sua_primeira_aplicacao/Atividades_Práticas/ConversaoDeTemperaturas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_criando_a_sua_primeira_aplicacao/Atividades_Práticas/DesafioAula2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_criando_a_sua_primeira_aplicacao/Atividades_Práticas/DesafioAula2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_criando_a_sua_primeira_aplicacao/Atividades_Práticas/DesafioAula3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_criando_a_sua_primeira_aplicacao/Atividades_Práticas/DesafioAula3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_criando_a_sua_primeira_aplicacao/Atividades_Práticas/Estudos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_criando_a_sua_primeira_aplicacao/Atividades_Práticas/Estudos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_criando_a_sua_primeira_aplicacao/Atividades_Práticas/JogoAdivinhacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_criando_a_sua_primeira_aplicacao/Atividades_Práticas/JogoAdivinhacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_criando_a_sua_primeira_aplicacao/Atividades_Práticas/Perfil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_criando_a_sua_primeira_aplicacao/Atividades_Práticas/Perfil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_criando_a_sua_primeira_aplicacao/Atividades_Práticas/Soma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_criando_a_sua_primeira_aplicacao/Atividades_Práticas/Soma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_criando_a_sua_primeira_aplicacao/Atividades_Práticas/Subtracao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_criando_a_sua_primeira_aplicacao/Atividades_Práticas/Subtracao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_criando_a_sua_primeira_aplicacao/Aulas/ConstruindoCatalogoDeFilmes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_criando_a_sua_primeira_aplicacao/Aulas/ConstruindoCatalogoDeFilmes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_criando_a_sua_primeira_aplicacao/Aulas/ControlandoFluxoDaAplicacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_criando_a_sua_primeira_aplicacao/Aulas/ControlandoFluxoDaAplicacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_criando_a_sua_primeira_aplicacao/desafio/desafio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/java_criando_a_sua_primeira_aplicacao/desafio/desafio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/aula/Principal/PrincipalComBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/aula/Principal/PrincipalComBusca.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +35,9 @@
     &quot;accountId&quot;: &quot;889675a1-7b5d-45c8-939f-f6270213579e&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -114,13 +49,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Aprenda_a_programar_em_Java_com_Orientação_a_Objetos.Java_consumindo_API_gravando_arquivos_e_lidando_com_erros.desafios.desafio01.Main.executor": "Run",
     "Application.ConstruindoCatalogoDeFilmes.executor": "Run",
-    "Application.ControlandoFluxoDaAplicacao.executor": "Debug",
+    "Application.ControlandoFluxoDaAplicacao.executor": "Run",
     "Application.ConversaoDeTemperaturas.executor": "Run",
+    "Application.Crypto.executor": "Run",
     "Application.DesafioAula2.executor": "Run",
     "Application.DesafioAula3.executor": "Run",
     "Application.JogoAdivinhacao.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Meals.executor": "Run",
+    "Application.PrincipalComBusca.executor": "Run",
     "Application.PrincipalComListas.executor": "Run",
     "Application.java_Trabalhando_Com_Listas_e_Colecoes_de_Dados.aulas.aula1.principal.Main.executor": "Run",
     "Application.java_Trabalhando_Com_Listas_e_Colecoes_de_Dados.praticas.aulas.Main.executor": "Run",
@@ -158,7 +97,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="ControlandoFluxoDaAplicacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ControlandoFluxoDaAplicacao" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aulas.ControlandoFluxoDaAplicacao" />
       <module name="Estudos java-Alura" />
       <extension name="coverage">
@@ -212,7 +151,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ControlandoFluxoDaAplicacao" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.JogoAdivinhacao" />
         <item itemvalue="Application.ConversaoDeTemperaturas" />
