@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c44819f-eaaf-4c3f-a86f-609886e7b668" name="Changes" comment="Estudos 27-10-2024">
-      <change afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/desafios/desafio01/Books.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/desafios/desafio01/Crypto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/desafios/desafio01/Meals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/aula/Principal/PrincipalComBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/aula/Principal/PrincipalComBusca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/desafios/desafio01/Books.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/desafios/desafio01/Books.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/desafios/desafio01/Crypto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/desafios/desafio01/Crypto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

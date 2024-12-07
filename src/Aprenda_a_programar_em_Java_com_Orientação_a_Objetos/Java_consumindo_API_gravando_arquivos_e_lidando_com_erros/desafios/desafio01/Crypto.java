@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class Crypto {
     public static void main(String[] args) throws IOException, InterruptedException {
-        //CG-BtUGp35YXSaHaP4tEcCrJuBQ
+
         Scanner scan = new Scanner(System.in);
         System.out.println("Procure a Criptomoeda pelo nome: ");
         String crypto = scan.nextLine();
