@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c44819f-eaaf-4c3f-a86f-609886e7b668" name="Changes" comment="Estudos 27-10-2024">
-      <change beforePath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/desafios/desafio01/Books.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/desafios/desafio01/Books.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/desafios/desafio01/Crypto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/desafios/desafio01/Crypto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/aula/Classes/TituloOmdb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estudos java-Alura.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Estudos java-Alura.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/aula/Classes/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/aula/Classes/Titulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/aula/Principal/PrincipalComBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros/aula/Principal/PrincipalComBusca.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -76,7 +80,10 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Daniel/IdeaProjects/Estudos-Java-Alura/src/Aprenda_a_programar_em_Java_com_Orientação_a_Objetos/Java_consumindo_API_gravando_arquivos_e_lidando_com_erros",
+    "last_opened_file_path": "C:/Users/Daniel/Downloads/gson-2.11.0.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
