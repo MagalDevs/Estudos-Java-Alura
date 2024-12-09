@@ -1,11 +1,10 @@
 package Aprenda_a_programar_em_Java_com_Orientação_a_Objetos.Java_consumindo_API_gravando_arquivos_e_lidando_com_erros.aula.Classes;
 
+import Aprenda_a_programar_em_Java_com_Orientação_a_Objetos.Java_consumindo_API_gravando_arquivos_e_lidando_com_erros.aula.Excecao.ErroDeConversaoDeAnoException;
 import com.google.gson.annotations.SerializedName;
 
 public class Titulo implements Comparable<Titulo>{
-    @SerializedName("Title")
     private String nome;
-    @SerializedName("Year")
     private int anoDeLancamento;
     private boolean incluidoNoPlano;
     private double somaDasAvaliacoes;
@@ -17,10 +16,13 @@ public class Titulo implements Comparable<Titulo>{
         this.anoDeLancamento = anoDeLancamento;
     }
 
-    public Titulo(TituloOmdb meuTituloOmdb) {
+    public Titulo(TituloOmdb meuTituloOmdb)  {
         this.nome = meuTituloOmdb.title();
+        if(meuTituloOmdb.year().length() > 4){
+            throw new ErroDeConversaoDeAnoException("Não consegui converter o ano, pois há mais de 4 caracteres.");
+        }
         this.anoDeLancamento = Integer.parseInt(meuTituloOmdb.year());
-        this.duracaoEmMinutos = Integer.parseInt(meuTituloOmdb.runtime().substring(0, 2));
+        this.duracaoEmMinutos = Integer.parseInt(meuTituloOmdb.runtime().substring(0, 3).trim());
     }
 
     public String getNome() {
@@ -80,7 +82,6 @@ public class Titulo implements Comparable<Titulo>{
 
     @Override
     public String toString() {
-        return "nome='" + nome + '\'' +
-                ", anoDeLancamento=" + anoDeLancamento + ", duracaoEmMinutos=" + duracaoEmMinutos ;
+        return "(nome: " + nome + ", anoDeLancamento: " + anoDeLancamento + ", duracaoEmMinutos: " + duracaoEmMinutos + ")" ;
     }
 }
